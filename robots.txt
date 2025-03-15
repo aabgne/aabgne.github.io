@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://aabgne.csgad.com/jdo/sitemap.xml.gz
